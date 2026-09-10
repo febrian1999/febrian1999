@@ -33,12 +33,4 @@ An enthusiastic **Full-Stack & Mobile Developer** passionate about building web 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=febrian1999&show_icons=true&theme=tokyonight&hide_border=true" alt="Febrian's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrian1999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-
 *“Keep pedaling, keep coding.”*

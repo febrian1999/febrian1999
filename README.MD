@@ -41,12 +41,12 @@ An enthusiastic **Full-Stack & Mobile Developer** passionate about building web 
 </p>
 
 ---
-
+/*
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **Strava:** [Track my rides](https://www.strava.com/athletes/your-id)
 - **Email:** your.email@example.com
-
+*/
 ---
 *“Keep pedaling, keep coding.”*
